@@ -1,8 +1,6 @@
 <p></p>
 <p></p>
 
-![输入图片说明](https://gitee.com/o88o/shucheyun/raw/master/readme-pic/logo.png)
-
 <div align="center">
 
 [官方网站](https://www.shucheyun.com/) | [在线演示](https://www.shucheyun.com)
